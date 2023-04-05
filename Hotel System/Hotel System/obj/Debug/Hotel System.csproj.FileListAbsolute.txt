@@ -1,0 +1,17 @@
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\bin\Debug\Hotel System.exe.config
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\bin\Debug\Hotel System.exe
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\bin\Debug\Hotel System.pdb
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.csprojAssemblyReference.cache
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.Form1.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.Properties.Resources.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.GenerateResource.cache
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CoreCompileInputs.cache
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.exe
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.pdb
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\bin\Debug\Guna.UI2.dll
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.Dashboard.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel System.csproj.CopyComplete
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.All_User_Control.AddRoom.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.All_User_Control.CustomerRegistration.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.All_User_Control.CustomerCheckout.resources
+C:\Users\Mntungwa\Downloads\Hotel System\Hotel System\obj\Debug\Hotel_System.All_User_Control.CustomerDetails.resources
